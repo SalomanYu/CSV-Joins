@@ -1,0 +1,26 @@
+QLabel{
+	font: 15px 'Noto Sans Mono';
+	color: #003B46;
+}
+QPushButton{
+	font: 15px 'Noto Sans Mono';
+	background-color: #003B46;
+	color: #C4DFE6;
+	border: 1px solid #505028;
+	border-radius: 10px;
+}
+QMainWindow{
+	background-color:#C4DFE6 ;
+}
+
+QLineEdit{
+	border:1px solid #07575B;
+	border-radius: 10px;
+	font:13px 'Noto Sans Mono';
+	color:#07575B;
+	margin-top:10px;
+}
+QPushButton:hover{
+	background-color: #07575B;
+	color:#F9F9FF;
+}
